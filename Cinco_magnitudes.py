@@ -51,3 +51,4 @@ for val_1, val_2, tipe in datos_con:
         x = x * (val_1 / val_2)
 
 print(f'El valor de la incognita es: {x:.2f}')
+input('Presione enter para finalizar')
