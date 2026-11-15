@@ -40,3 +40,8 @@ else:
     plt.show()
 
 input('Presiona enter para salir')
+
+
+
+
+#Vballares_a
